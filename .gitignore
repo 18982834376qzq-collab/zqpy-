@@ -1,0 +1,13 @@
+# python缓存文件
+__pycache__/
+*.pyc
+*.pyo
+
+# 程序运行生成的数据文件，不上传github
+todos.json
+
+# PyCharm 配置
+.idea/
+
+# 虚拟环境
+venv/
